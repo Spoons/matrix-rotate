@@ -1,0 +1,10 @@
+attrs
+coverage
+more-itertools
+packaging
+pluggy
+py
+pyparsing
+pytest
+six
+wcwidth
